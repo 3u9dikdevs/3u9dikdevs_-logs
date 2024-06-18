@@ -13,6 +13,10 @@ yay! sdmei2dex!
 next ver:syif96
 
 log list
+---
 1.1j
+
 2.sdmei2dex 24.6.18 update <-- now vers
+
 3.syif96
+
