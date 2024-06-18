@@ -4,9 +4,11 @@
 # logs(update or etc)
 yay! sdmei2dex!
 
-add botCS
-Description changes
-fix bug and fix ecode (Error code)
+1.add botCS
+
+2.Description changes
+
+3.fix bug and fix ecode (Error code)
 
 next ver:syif96
 
