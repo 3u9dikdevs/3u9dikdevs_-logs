@@ -12,6 +12,8 @@ yay! sdmei2dex!
 
 next ver:syif96
 
+24.6.22 end github logs 
+
 log list
 ---
 1.1j
