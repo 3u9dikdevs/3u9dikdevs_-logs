@@ -14,6 +14,10 @@ next ver:syif96
 
 24.6.22 end github logs 
 
+1 - days
+move logs
+
+
 log list
 ---
 1.1j
